@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**cqu-student/cqu-student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 简介先空着，后续补充 -->
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ My Starred Repositories
+
+### 🧠 AI & Machine Learning
+- [huggingface/transformers](https://github.com/huggingface/transformers) - State-of-the-art ML
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks
+- [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - Large language model
+
+### 🌐 Web Frameworks
+- [vuejs/vue](https://github.com/vuejs/vue) - The Progressive JavaScript Framework
+- [facebook/react](https://github.com/facebook/react) - A JavaScript library for building UIs
+
+### 🛠️ Tools
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - Framework for managing zsh
+- [junegunn/fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder
+
+### 📚 Learning Resources
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Open source codebase
+
+---
+
+<!-- 其他部分先空着 -->
